@@ -1,0 +1,3 @@
+	skill1: nauchimisya delat zprosy,
+	skill2: nauchimsya pisat kod,
+	skill3: nauchimsya rabotat v postman
