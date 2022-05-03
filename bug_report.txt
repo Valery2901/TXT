@@ -1,0 +1,6 @@
+  ID: 123.14,
+  Summary: Net zapreta na vvod spec simvolov v pole vvoda imeni pri registracii novogo polzovatelya,
+  Shagi k vosproizvedeniiu: Otkrit stranicu https://page.pl/register, vvesti imya polzovatelya so spec simvolami, nazhat registaciya,
+  Ozhydaemyi rezultat: Soobschenie ob oshibke,
+  Fakticheskii rezultat: Registraciya zavershena,
+  Serezdnost: S2 Major
