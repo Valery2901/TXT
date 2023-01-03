@@ -1,0 +1,4 @@
+name: Valery
+age: 34
+number of pets: 1
+expected salary: 5000$
